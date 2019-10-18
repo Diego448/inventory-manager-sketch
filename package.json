@@ -1,0 +1,16 @@
+{
+  "name": "inventory-manger",
+  "version": "1.0.0",
+  "description": "Simple inventory manager system",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node crud-service.js"
+  },
+  "author": "Diego Serrano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2"
+  }
+}
